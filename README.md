@@ -1,2 +1,2 @@
-# practice_c-
+# practice_c
 learn basic c++ myself
